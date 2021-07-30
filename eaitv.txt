@@ -1,108 +1,1030 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/combate.png" group-title="ESPORTES",COMBATE 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14353
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14353
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn.png" group-title="ESPORTES",ESPN 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14354
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14354
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn2.png" group-title="ESPORTES",ESPN 2 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14355
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14355
+#EXTINF:-1 tvg-id="ESPNBRASIL" tvg-name="ESPN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnbrasil.png" group-title="ESPORTES",ESPN BRASIL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14356
 #EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14357
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14357
 #EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport1.png" group-title="ESPORTES",FOX SPORT 1 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14358
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14358
 #EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORT 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport2.png" group-title="ESPORTES",FOX SPORT 2 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14359
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14359
+#EXTINF:-1 tvg-id="SPORTV" tvg-name="SPORT TV 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv1.png" group-title="ESPORTES",SPORT TV 1 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14360
+#EXTINF:-1 tvg-id="SPORTV2" tvg-name="SPORT TV 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv2.png" group-title="ESPORTES",SPORT TV 2 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14361
 #EXTINF:-1 tvg-id="SPORTV3" tvg-name="SPORT TV 3 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv3.png" group-title="ESPORTES",SPORT TV 3 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14362
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14362
 #EXTINF:-1 tvg-id="OFF" tvg-name="OFF 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/off.png" group-title="ESPORTES",OFF 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14363
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14363
 #EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14364
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14364
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 1 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/153
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/153
 #EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 2 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15064
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15064
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15102
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15102
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15122
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15122
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15123
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15123
 #EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 4 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 4 HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15149
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15149
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 01 4k
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15235
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15235
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 2 4k
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/158
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/158
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 3 4k
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15233
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15233
 #EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 4 4k
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15234
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15234
+#EXTINF:-1 tvg-id="" tvg-name="PLAY PLUS HD AO VIVO" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/esporteondemamd1.png" group-title="REDE RECORD",PLAY PLUS HD AO VIVO
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/154
+#EXTINF:-1 tvg-id="PREMIERECLUBES" tvg-name="PREMIER CLUB 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER CLUB 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14365
 #EXTINF:-1 tvg-id="PREMIERE2" tvg-name="PREMIER 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 2 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14366
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14366
 #EXTINF:-1 tvg-id="PREMIERE3" tvg-name="PREMIER 3 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 3 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14367
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14367
 #EXTINF:-1 tvg-id="PREMIERE4" tvg-name="PREMIER 4 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 4 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14368
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14368
 #EXTINF:-1 tvg-id="PREMIERE5BRAZIL" tvg-name="PREMIER 5 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 5 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14369
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14369
 #EXTINF:-1 tvg-id="PREMIERE6" tvg-name="PREMIER 6 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 6 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14370
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14370
 #EXTINF:-1 tvg-id="PREMIERE7" tvg-name="PREMIER 7 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 7 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14371
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14371
 #EXTINF:-1 tvg-id="PREMIERE8" tvg-name="PREMIER 8 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 8 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14372
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14372
 #EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/3255_300.png" group-title="ESPORTES",WOOHOO 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/141
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/141
 #EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/allsportstv.png" group-title="ESPORTES",All Sports TV
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15051
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15051
 #EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14562
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14562
 #EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandnews.png" group-title="NOTÍCIAS",BAND NEWS 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14563
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14563
 #EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/recordnews.png" group-title="NOTÍCIAS",RECORD NEWS 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/136
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/136
 #EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnnbrasil.png" group-title="NOTÍCIAS",CNN BRASIL 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/150
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/150
 #EXTINF:-1 tvg-id="CNNE" tvg-name="CNN ESPANOL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnnespanol.png" group-title="NOTÍCIAS",CNN ESPANOL HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/114
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/114
 #EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnninter.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/121
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/121
 #EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxnews.png" group-title="NOTÍCIAS",FOX NEWS HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/120
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/120
 #EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14564
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14564
 #EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",SBT 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/110
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/110
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND SP 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND SP 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14558
 #EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14967
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14967
 #EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND  SP 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND  SP 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15231
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15231
 #EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND FHD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15232
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15232
 #EXTINF:-1 tvg-id="BANDRJ" tvg-name=" RBATV Band PA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS", RBATV Band PA HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15002
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15002
 #EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV!" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV!
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/106
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/106
 #EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redesuper.png" group-title="ABERTOS",REDE SUPER HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/139
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/139
 #EXTINF:-1 tvg-id="REDEGÊNESIS" tvg-name="REDE GENESIS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/140
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/140
 #EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14983
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14983
 #EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15008
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15008
 #EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redevida.png" group-title="RELIGIOSOS",REDE VIDA
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15120
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15120
 #EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15024
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15024
 #EXTINF:-1 tvg-id="" tvg-name="TBO REDE BRASIL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tboredebrasil.png" group-title="ABERTOS",TBO REDE BRASIL HD
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15028
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15028
 #EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redecnt.png" group-title="ABERTOS",Rede Cnt
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15020
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15020
 #EXTINF:-1 tvg-id="" tvg-name="TV Serra Dourada (SBT GO)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",TV Serra Dourada (SBT GO)
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15004
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15004
 #EXTINF:-1 tvg-id="CURTA" tvg-name="Curta! 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/curta.png" group-title="ABERTOS",Curta! 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14561
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14561
 #EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/futura.png" group-title="ABERTOS",Futura 4K
-http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14560
-#EXTINF:-1 tvg-id="ARTE1" tvg-name="Arte1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/arte1.png" group-title="ABERTO
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14560
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="Arte1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/arte1.png" group-title="ABERTOS",Arte1 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14559
+#EXTINF:-1 tvg-id="" tvg-name="CATVE HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/catve.png" group-title="ABERTOS",CATVE HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14968
+#EXTINF:-1 tvg-id="" tvg-name="CATVE 2 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/catve2.png" group-title="ABERTOS",CATVE 2 HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14969
+#EXTINF:-1 tvg-id="" tvg-name="CATVE FM HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/catvefm.png" group-title="ABERTOS",CATVE FM HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14970
+#EXTINF:-1 tvg-id="" tvg-name="MASTER TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/mastertv.png" group-title="ABERTOS",MASTER TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14971
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV GAZETA   HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gazeta.png" group-title="ABERTOS",TV GAZETA   HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/145
+#EXTINF:-1 tvg-id="REDENGTNOVAGERACAODETELEVISAO" tvg-name="ISAT HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/isat.png" group-title="ABERTOS",ISAT HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/107
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV DIARIO HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tvdiario.png" group-title="ABERTOS",TV DIARIO HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/112
+#EXTINF:-1 tvg-id="TVNOVOTEMPO" tvg-name="NOVO TEMPO HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/novotempo.png" group-title="RELIGIOSOS",NOVO TEMPO HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/169
+#EXTINF:-1 tvg-id="REDERECORD" tvg-name="RECORD TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/record.png" group-title="REDE RECORD",RECORD TV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/135
+#EXTINF:-1 tvg-id="" tvg-name="TV APARECIDA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/aparecida.png" group-title="RELIGIOSOS",TV APARECIDA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15065
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO SP 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO SP 4k
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/134
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RJ 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO RJ 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/149
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO EPTV CAMPINAS HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/127
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RCP CURITIBA 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO RCP CURITIBA 4k
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/122
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO NSC TV FLORIANOPOLIS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO NSC TV FLORIANOPOLIS HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/125
+#EXTINF:-1 tvg-id="" tvg-name="GLOBO TV BRASILIA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO TV BRASILIA 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/146
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO MINAS 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO MINAS 4k
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/131
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="INTER TV GRANDE MINAS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",INTER TV GRANDE MINAS HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/111
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="EPTV SUL DE MINAS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",EPTV SUL DE MINAS HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/113
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO NORDESTE 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO NORDESTE 4k
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/129
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO RBS PORTO ALEGRE 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO RBS PORTO ALEGRE 4k
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/137
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV BELEM" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO TV BELEM
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/123
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV CENTRO AMERICA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO TV CENTRO AMERICA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/132
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="Globo TV BAHIA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",Globo TV BAHIA HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/133
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="INTER TV DOS VALES HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",INTER TV DOS VALES HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/142
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV MIRANTE HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO TV MIRANTE HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/124
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV MORENA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO TV MORENA HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/128
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="GLOBO TV VERDESMARES" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",GLOBO TV VERDESMARES
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/130
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="NSC TV BLUMENAU HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",NSC TV BLUMENAU HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/138
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="TV GAZETA ALAGOAS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",TV GAZETA ALAGOAS HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/143
+#EXTINF:-1 tvg-id="REDENGTNOVAGERACAODETELEVISAO" tvg-name="TV SANTA CRUZ HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",TV SANTA CRUZ HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/144
+#EXTINF:-1 tvg-id="TVSENADO" tvg-name="TV SERGIPE HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globo.png" group-title="REDE GLOBO",TV SERGIPE HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/148
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="Mais Globo 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/maisglobo.png" group-title="REDE GLOBO",Mais Globo 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14557
+#EXTINF:-1 tvg-id="NICKELODEON" tvg-name="NICK 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nick.png" group-title="INFANTIS",NICK 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14411
+#EXTINF:-1 tvg-id="NICKJR" tvg-name="NICK JR 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nickjr.png" group-title="INFANTIS",NICK JR 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14412
+#EXTINF:-1 tvg-id="DISNEYCHANNEL" tvg-name="DISNEY CHANNEL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneychannel.png" group-title="INFANTIS",DISNEY CHANNEL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14413
+#EXTINF:-1 tvg-id="DISNEYXD" tvg-name="DISNEY XD 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyxd.png" group-title="INFANTIS",DISNEY XD 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/108
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-name="DISNEY JR 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/disneyjr.png" group-title="INFANTIS",DISNEY JR 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14414
+#EXTINF:-1 tvg-id="DISCOVERYKIDS" tvg-name="DISCOVERY KIDS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveykids.png" group-title="INFANTIS",DISCOVERY KIDS 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14415
+#EXTINF:-1 tvg-id="NATGEOKIDS" tvg-name="NAT GEO KIDS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/natgeokids.png" group-title="INFANTIS",NAT GEO KIDS 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14416
+#EXTINF:-1 tvg-id="CARTOONNETWORK" tvg-name="CARTOON NETWORK 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cartoonnetwork.png" group-title="INFANTIS",CARTOON NETWORK 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14417
+#EXTINF:-1 tvg-id="BOOMERANG" tvg-name="BOOMERANG 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/boomerang.png" group-title="INFANTIS",BOOMERANG 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14418
+#EXTINF:-1 tvg-id="BABYTV" tvg-name="BABY TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/babytv.png" group-title="INFANTIS",BABY TV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14419
+#EXTINF:-1 tvg-id="GLOOB" tvg-name="GLOOB 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gloob.png" group-title="INFANTIS",GLOOB 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14420
+#EXTINF:-1 tvg-id="GLOOBINHO" tvg-name="GLOOBINHO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globinho.png" group-title="INFANTIS",GLOOBINHO 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14421
+#EXTINF:-1 tvg-id="TOONCAST" tvg-name="TOONCAST 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tooncast.png" group-title="INFANTIS",TOONCAST 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14422
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tnt.png" group-title="FILMES E SERIES",TNT 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14374
+#EXTINF:-1 tvg-id="TNTSERIES" tvg-name="TNT SERIES 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntseries.png" group-title="FILMES E SERIES",TNT SERIES 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14375
+#EXTINF:-1 tvg-id="SPACE" tvg-name="SPACE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/space.png" group-title="FILMES E SERIES",SPACE 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14376
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="FOX PREMIUM 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxpremium1.png" group-title="FILMES E SERIES",FOX PREMIUM 1 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14377
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="FOX PREMIUM 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxpremium2.png" group-title="FILMES E SERIES",FOX PREMIUM 2 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14378
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="FOX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/fox.png" group-title="FILMES E SERIES",FOX 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14379
+#EXTINF:-1 tvg-id="GLOBO" tvg-name="FOX LIFE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxlife.png" group-title="FILMES E SERIES",FOX LIFE 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14380
+#EXTINF:-1 tvg-id="FX" tvg-name="FX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/fx.png" group-title="FILMES E SERIES",FX 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14381
+#EXTINF:-1 tvg-id="TELECINEACTION" tvg-name="TC ACTION 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcaction.png" group-title="FILMES E SERIES",TC ACTION 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14382
+#EXTINF:-1 tvg-id="TELECINEPREMIUM" tvg-name="TC PREMIUM 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpremium.png" group-title="FILMES E SERIES",TC PREMIUM 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14383
+#EXTINF:-1 tvg-id="TELECINEPIPOCA" tvg-name="TC PIPOCA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcpipoca.png" group-title="FILMES E SERIES",TC PIPOCA 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14384
+#EXTINF:-1 tvg-id="TELECINETOUCH" tvg-name="TC TOUCH 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tctouch.png" group-title="FILMES E SERIES",TC TOUCH 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14385
+#EXTINF:-1 tvg-id="TELECINEFUN" tvg-name="TC FUN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcfun.png" group-title="FILMES E SERIES",TC FUN 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14386
+#EXTINF:-1 tvg-id="TELECINECULT" tvg-name="TC CULT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tccult.png" group-title="FILMES E SERIES",TC CULT 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14387
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbo.png" group-title="FILMES E SERIES",HBO 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14388
+#EXTINF:-1 tvg-id="HBO2" tvg-name="HBO2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbo2.png" group-title="FILMES E SERIES",HBO2 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14389
+#EXTINF:-1 tvg-id="HBOPLUS" tvg-name="HBO PLUS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboplus.png" group-title="FILMES E SERIES",HBO PLUS 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14390
+#EXTINF:-1 tvg-id="HBOSIGNATURE" tvg-name="HBO SIGNATURE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbosignature.png" group-title="FILMES E SERIES",HBO SIGNATURE 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14391
+#EXTINF:-1 tvg-id="HBOFAMILY" tvg-name="HBO FAMILY 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbofamily.png" group-title="FILMES E SERIES",HBO FAMILY 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14392
+#EXTINF:-1 tvg-id="HBOMUNDI" tvg-name="HBO MUNDI 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboxtreme.png" group-title="FILMES E SERIES",HBO MUNDI 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14393
+#EXTINF:-1 tvg-id="HBOPOP" tvg-name="HBO POP 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hbopop.png" group-title="FILMES E SERIES",HBO POP 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14394
+#EXTINF:-1 tvg-id="HBOXTREME" tvg-name="HBO XTREME 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/hboxtreme.png" group-title="FILMES E SERIES",HBO XTREME 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14395
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cinemax.png" group-title="FILMES E SERIES",CINEMAX 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14396
+#EXTINF:-1 tvg-id="CANALBRASIL" tvg-name="CANAL BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/canalbrasil.png" group-title="FILMES E SERIES",CANAL BRASIL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14397
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/axn.png" group-title="FILMES E SERIES",AXN 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14398
+#EXTINF:-1 tvg-id="AE" tvg-name="A&E 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/a&e.png" group-title="FILMES E SERIES",A&E 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14408
+#EXTINF:-1 tvg-id="SONY" tvg-name="SONY 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sony.png" group-title="FILMES E SERIES",SONY 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14399
+#EXTINF:-1 tvg-id="SYFY" tvg-name="SYFY 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/syfy.png" group-title="FILMES E SERIES",SYFY 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14400
+#EXTINF:-1 tvg-id="MEGAPIX" tvg-name="MEGAPIX 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/megapix.png" group-title="FILMES E SERIES",MEGAPIX 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14401
+#EXTINF:-1 tvg-id="PARAMOUNT" tvg-name="PARAMOUNT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/paramount.png" group-title="FILMES E SERIES",PARAMOUNT 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14402
+#EXTINF:-1 tvg-id="UNIVERSAL" tvg-name="UNIVERSAL TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/universaltv.png" group-title="FILMES E SERIES",UNIVERSAL TV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14403
+#EXTINF:-1 tvg-id="WARNER" tvg-name="WARNER CHANNEL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/warnerchannel.png" group-title="FILMES E SERIES",WARNER CHANNEL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14404
+#EXTINF:-1 tvg-id="COMEDYCENTRAL" tvg-name="COMEDY CENTRAL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/comedycentral.png" group-title="FILMES E SERIES",COMEDY CENTRAL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14405
+#EXTINF:-1 tvg-id="STUDIOUNIVERSAL" tvg-name="STUDIO UNIVERSAL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/studiouniversal.png" group-title="FILMES E SERIES",STUDIO UNIVERSAL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14406
+#EXTINF:-1 tvg-id="PRIMEBOXBRAZIL" tvg-name="PRIME BOXBRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/primebox.png" group-title="FILMES E SERIES",PRIME BOXBRASIL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14407
+#EXTINF:-1 tvg-id="" tvg-name="PLAY TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/playtv.png" group-title="FILMES E SERIES",PLAY TV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14410
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tcm.png" group-title="FILMES E SERIES",TCM 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14409
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHIC" tvg-name="NAT GEO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/natgeo.png" group-title="DOCUMENTARIOS",NAT GEO 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14427
+#EXTINF:-1 tvg-id="NATIONALGEOGRAPHICWILD" tvg-name="NAT GEO WILD 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/natgeowild.png" group-title="DOCUMENTARIOS",NAT GEO WILD 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14429
+#EXTINF:-1 tvg-id="ANIMALPLANET" tvg-name="ANIMAL PLANET 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/animalplanet.png" group-title="DOCUMENTARIOS",ANIMAL PLANET 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14428
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="H2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/h2.png" group-title="DOCUMENTARIOS",H2 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14430
+#EXTINF:-1 tvg-id="HISTORY2" tvg-name="HISTORY 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/history.png" group-title="DOCUMENTARIOS",HISTORY 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14431
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-name="DISCOVERY CHANNEL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverychannel.png" group-title="DOCUMENTARIOS",DISCOVERY CHANNEL 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14432
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY THEATER 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverytheater.png" group-title="DOCUMENTARIOS",DISCOVERY THEATER 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14433
+#EXTINF:-1 tvg-id="DISCOVERYTURBO" tvg-name="DISCOVERY TURBO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveryturbo.png" group-title="DOCUMENTARIOS",DISCOVERY TURBO 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14434
+#EXTINF:-1 tvg-id="DISCOVERYWORLD" tvg-name="DISCOVERY WORLD 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveryworld.png" group-title="DOCUMENTARIOS",DISCOVERY WORLD 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14435
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY SCIENCE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverysience.png" group-title="DOCUMENTARIOS",DISCOVERY SCIENCE 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14436
+#EXTINF:-1 tvg-id="DISCOVERYSCIENCE" tvg-name="DISCOVERY CIVILIZATION 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoverycivi.png" group-title="DOCUMENTARIOS",DISCOVERY CIVILIZATION 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14437
+#EXTINF:-1 tvg-id="DISCOVERYHH" tvg-name="DISCOVERY HOME&HEALTH 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/homehealth.png" group-title="DOCUMENTARIOS",DISCOVERY HOME&HEALTH 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14438
+#EXTINF:-1 tvg-id="LIV" tvg-name="DISCOVERY ID 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/discoveryid.png" group-title="DOCUMENTARIOS",DISCOVERY ID 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14439
+#EXTINF:-1 tvg-id="FISHTV" tvg-name="FISH TV HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/fishtv.png" group-title="DOCUMENTARIOS",FISH TV HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14440
+#EXTINF:-1 tvg-id="E" tvg-name="E! 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/e!.png" group-title="VARIEDADES",E! 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14441
+#EXTINF:-1 tvg-id="TLC" tvg-name="TLC 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tlc.png" group-title="VARIEDADES",TLC 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14442
+#EXTINF:-1 tvg-id="GNT" tvg-name="GNT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gnt.png" group-title="VARIEDADES",GNT 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14443
+#EXTINF:-1 tvg-id="VIVA" tvg-name="VIVA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/viva.png" group-title="VARIEDADES",VIVA 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14444
+#EXTINF:-1 tvg-id="" tvg-name="TRUE TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/truetv.png" group-title="VARIEDADES",TRUE TV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14445
+#EXTINF:-1 tvg-id="LIFETIME" tvg-name="LIFE TIME 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/lifetime.png" group-title="VARIEDADES",LIFE TIME 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14446
+#EXTINF:-1 tvg-id="CHEFTV" tvg-name="CHEFTV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cheftv.png" group-title="VARIEDADES",CHEFTV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14447
+#EXTINF:-1 tvg-id="" tvg-name="FOOD NETWORK 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foodnetwork.png" group-title="VARIEDADES",FOOD NETWORK 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14448
+#EXTINF:-1 tvg-id="SHOPTIME" tvg-name="SHOPTIME HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/shoptime.png" group-title="VARIEDADES",SHOPTIME HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/147
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tbs.png" group-title="VARIEDADES",TBS 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14449
+#EXTINF:-1 tvg-id="BIS" tvg-name="BIS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bis.png" group-title="MUSICA&ENTR",BIS 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14423
+#EXTINF:-1 tvg-id="vh1.br" tvg-name="VH1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/vh1.png" group-title="MUSICA&ENTR",VH1 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14426
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/mtv.png" group-title="MUSICA&ENTR",MTV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14425
+#EXTINF:-1 tvg-id="MULTISHOW" tvg-name="MULTISHOW 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/multishow.png" group-title="MUSICA&ENTR",MULTISHOW 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14424
+#EXTINF:-1 tvg-id="MUSICBOXBRASIL" tvg-name="MUSICBOX BRASIL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/musicboxbrasil.png" group-title="MUSICA&ENTR",MUSICBOX BRASIL HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/105
+#EXTINF:-1 tvg-id="SEXYHOT" tvg-name="SEXHOT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sexhot.png" group-title="ADULTO",SEXHOT 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/116
+#EXTINF:-1 tvg-id="SEXPRIVE" tvg-name="SEX PRIVE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sexprive.png" group-title="ADULTO",SEX PRIVE 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/109
+#EXTINF:-1 tvg-id="PLAYBOY" tvg-name="PLAYBOY TV 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/playboy.png" group-title="ADULTO",PLAYBOY TV 4K
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/115
+#EXTINF:-1 tvg-id="" tvg-name="SEX CHN" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",SEX CHN
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15243
+#EXTINF:-1 tvg-id="" tvg-name="WHITE BOX" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",WHITE BOX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15255
+#EXTINF:-1 tvg-id="" tvg-name="XTACY" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",XTACY
+#EXTINF:-1 tvg-id="" tvg-name="BO ATB" tvg-logo="http://gui.cdniptv.com:5544/icons/bolivia/atb.png" group-title="[lang=Bolivia] Bolivia",BO ATB
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/197
+#EXTINF:-1 tvg-id="" tvg-name="COVID-19 MAPA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cam.png" group-title="CAMERA 24H",COVID-19 MAPA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14979
+#EXTINF:-1 tvg-id="" tvg-name="CAM NASA MِARS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cam.png" group-title="CAMERA 24H",CAM NASA MِARS
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15171
+#EXTINF:-1 tvg-id="" tvg-name="NASA TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/nasatv.png" group-title="DOCUMENTARIOS",NASA TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15181
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15115
+#EXTINF:-1 tvg-id="" tvg-name="Rede Massa SBT PR" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",Rede Massa SBT PR
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15116
+#EXTINF:-1 tvg-id="" tvg-name="SBT GO" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",SBT GO
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15117
+#EXTINF:-1 tvg-id="" tvg-name="SBT MA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",SBT MA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15118
+#EXTINF:-1 tvg-id="" tvg-name="SBT MT HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",SBT MT HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15119
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON  1" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON  1
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15124
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON 2" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON 2
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15125
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON 3" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON 3
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15126
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON 4" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON 4
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15127
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON  5" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON  5
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15128
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON  6" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON  6
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15129
+#EXTINF:-1 tvg-id="" tvg-name="GAMER ON  7" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/gameron.png" group-title="GAMER 24H",GAMER ON  7
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15130
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15224
+#EXTINF:-1 tvg-id="" tvg-name="Mickey Mouse" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/mickeymouse.png" group-title="INFANTIS",Mickey Mouse
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15225
+#EXTINF:-1 tvg-id="" tvg-name="Booba " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/booba.png" group-title="INFANTIS",Booba 
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15226
+#EXTINF:-1 tvg-id="" tvg-name="XXL 1" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",XXL 1
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15236
+#EXTINF:-1 tvg-id="" tvg-name="HONEY HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",HONEY HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15237
+#EXTINF:-1 tvg-id="" tvg-name="EROTIC 6 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",EROTIC 6 HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15238
+#EXTINF:-1 tvg-id="" tvg-name="XXXY" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",XXXY
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15239
+#EXTINF:-1 tvg-id="" tvg-name="EROTICA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",EROTICA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15240
+#EXTINF:-1 tvg-id="" tvg-name="EROTIC 6 FHD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",EROTIC 6 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15241
+#EXTINF:-1 tvg-id="" tvg-name="BRAZZERS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",BRAZZERS
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15242
+#EXTINF:-1 tvg-id="" tvg-name="NEW SEX" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",NEW SEX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15244
+#EXTINF:-1 tvg-id="" tvg-name="EROTIC 4 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",EROTIC 4 HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15245
+#EXTINF:-1 tvg-id="" tvg-name="PHD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",PHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15246
+#EXTINF:-1 tvg-id="" tvg-name="BALKAN EROTIC HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",BALKAN EROTIC HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15247
+#EXTINF:-1 tvg-id="" tvg-name="MEIDEN HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",MEIDEN HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15248
+#EXTINF:-1 tvg-id="" tvg-name="ADULTTIME" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",ADULTTIME
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15249
+#EXTINF:-1 tvg-id="" tvg-name="FAMILY XXX" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",FAMILY XXX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15250
+#EXTINF:-1 tvg-id="" tvg-name="XDREAM TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",XDREAM TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15251
+#EXTINF:-1 tvg-id="" tvg-name="FILMAX" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",FILMAX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15252
+#EXTINF:-1 tvg-id="" tvg-name="EROTICS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",EROTICS
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15253
+#EXTINF:-1 tvg-id="" tvg-name="BLUE HUSTLER" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",BLUE HUSTLER
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15254
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",PLAYBOY TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15256
+#EXTINF:-1 tvg-id="" tvg-name="PLAYBOY TV 2" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",PLAYBOY TV 2
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15257
+#EXTINF:-1 tvg-id="" tvg-name="PLAYHOUSE2" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",PLAYHOUSE2
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15258
+#EXTINF:-1 tvg-id="" tvg-name="PUBLICBANG FHD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",PUBLICBANG FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15260
+#EXTINF:-1 tvg-id="" tvg-name="PURETABOO" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",PURETABOO
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15261
+#EXTINF:-1 tvg-id="" tvg-name="RED HOT" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",RED HOT
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15262
+#EXTINF:-1 tvg-id="" tvg-name="RUSSKAV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",RUSSKAV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15263
+#EXTINF:-1 tvg-id="" tvg-name="VENUS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",VENUS
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15265
+#EXTINF:-1 tvg-id="" tvg-name="TWINS CHAN" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",TWINS CHAN
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15267
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: A3 BIKINI TV (S)" tvg-logo="" group-title="ADULTO",Erotic: A3 BIKINI TV (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26795
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: A3 BIKINI TV HD" tvg-logo="" group-title="ADULTO",Erotic: A3 BIKINI TV HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26796
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ABELLA DANGER CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: ABELLA DANGER CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26797
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ADRIANA CHECHIK CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: ADRIANA CHECHIK CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26798
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: AJ APPLEGATE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: AJ APPLEGATE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26799
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ALBA XXX 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: ALBA XXX 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26800
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ALEXIS CRYSTAL CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: ALEXIS CRYSTAL CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26801
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ALLOVER 30 FHD" tvg-logo="" group-title="ADULTO",Erotic: ALLOVER 30 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26802
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ALURA JENSON CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: ALURA JENSON CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26803
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ANAL OVERDOZE FHD" tvg-logo="" group-title="ADULTO",Erotic: ANAL OVERDOZE FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26804
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ANALIZED FHD" tvg-logo="" group-title="ADULTO",Erotic: ANALIZED FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26805
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ANGELA WHITE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: ANGELA WHITE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26806
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ANNA BELL PEAKS CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: ANNA BELL PEAKS CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26807
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ASSPARADE 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: ASSPARADE 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26808
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ASSPARADE FHD" tvg-logo="" group-title="ADULTO",Erotic: ASSPARADE FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26809
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ASSYLUM 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: ASSYLUM 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26810
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ASSYLUM 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: ASSYLUM 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26811
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: AUNT JUDYS FHD" tvg-logo="" group-title="ADULTO",Erotic: AUNT JUDYS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26812
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BABES TV FHD" tvg-logo="" group-title="ADULTO",Erotic: BABES TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26813
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BABES TV HD (S)" tvg-logo="" group-title="ADULTO",Erotic: BABES TV HD (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26814
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BACKROOM CASTING COUCH FHD" tvg-logo="" group-title="ADULTO",Erotic: BACKROOM CASTING COUCH FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26815
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BAD MILFS FHD" tvg-logo="" group-title="ADULTO",Erotic: BAD MILFS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26816
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN EROTIC" tvg-logo="" group-title="ADULTO",Erotic: BALKAN EROTIC
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26817
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN EROTIC (H)" tvg-logo="" group-title="ADULTO",Erotic: BALKAN EROTIC (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26818
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN HOT TV (H)" tvg-logo="" group-title="ADULTO",Erotic: BALKAN HOT TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26819
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BALKAN HOT TV 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: BALKAN HOT TV 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26820
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANG U (H)" tvg-logo="" group-title="ADULTO",Erotic: BANG U (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26821
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGBROS 18 FHD" tvg-logo="" group-title="ADULTO",Erotic: BANGBROS 18 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26822
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGBROS POV FHD" tvg-logo="" group-title="ADULTO",Erotic: BANGBROS POV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26823
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGBROS UHD 4K  [ONLY ON 4K DEVICES]" tvg-logo="" group-title="ADULTO",Erotic: BANGBROS UHD 4K  [ONLY ON 4K DEVICES]
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26824
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGBUS 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: BANGBUS 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26825
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGBUS FHD" tvg-logo="" group-title="ADULTO",Erotic: BANGBUS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26826
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BANGERZ (H)" tvg-logo="" group-title="ADULTO",Erotic: BANGERZ (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26827
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BARELY LEGAL" tvg-logo="" group-title="ADULTO",Erotic: BARELY LEGAL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26828
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BARELY LEGAL TV (S)" tvg-logo="" group-title="ADULTO",Erotic: BARELY LEGAL TV (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26829
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BDSM CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: BDSM CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26830
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BEATE-UHSE TV HD" tvg-logo="" group-title="ADULTO",Erotic: BEATE-UHSE TV HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26831
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BIG DADDY POV FHD" tvg-logo="" group-title="ADULTO",Erotic: BIG DADDY POV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26832
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BIGTITS ROUND ASS FHD" tvg-logo="" group-title="ADULTO",Erotic: BIGTITS ROUND ASS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26833
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BIZARRE TV FHD" tvg-logo="" group-title="ADULTO",Erotic: BIZARRE TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26834
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLACKED RAW 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: BLACKED RAW 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26835
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLACKED RAW FHD" tvg-logo="" group-title="ADULTO",Erotic: BLACKED RAW FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26836
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLACKED RAW UHD 4K  [ONLY ON 4K DEVICES]" tvg-logo="" group-title="ADULTO",Erotic: BLACKED RAW UHD 4K  [ONLY ON 4K DEVICES]
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26837
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLOWJOB FRIDAYS FHD" tvg-logo="" group-title="ADULTO",Erotic: BLOWJOB FRIDAYS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26838
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER" tvg-logo="" group-title="ADULTO",Erotic: BLUE HUSTLER
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26839
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER TV (S)" tvg-logo="" group-title="ADULTO",Erotic: BLUE HUSTLER TV (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26840
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BLUE HUSTLER TV EUROPE (S)" tvg-logo="" group-title="ADULTO",Erotic: BLUE HUSTLER TV EUROPE (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26841
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BONNIE ROTTEN CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: BONNIE ROTTEN CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26842
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRAZZERS FHD" tvg-logo="" group-title="ADULTO",Erotic: BRAZZERS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26843
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRAZZERS TV EUROPE (H)" tvg-logo="" group-title="ADULTO",Erotic: BRAZZERS TV EUROPE (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26844
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRIDGETTE B CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: BRIDGETTE B CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26845
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: BRITTANY BARDOT CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: BRITTANY BARDOT CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26846
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CANDY TV HD (S)" tvg-logo="" group-title="ADULTO",Erotic: CANDY TV HD (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26847
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CASTING COUCH FHD" tvg-logo="" group-title="ADULTO",Erotic: CASTING COUCH FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26848
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CENTO CENTO" tvg-logo="" group-title="ADULTO",Erotic: CENTO CENTO
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26849
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CENTO X CENTO (H)" tvg-logo="" group-title="ADULTO",Erotic: CENTO X CENTO (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26850
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CHERRY KISS CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: CHERRY KISS CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26851
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CHERRY PIMPS FHD" tvg-logo="" group-title="ADULTO",Erotic: CHERRY PIMPS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26852
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: COSMID 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: COSMID 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26853
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: COSMID 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: COSMID 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26854
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CUCKOLD CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: CUCKOLD CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26855
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CUCKOLD SESSIONS FHD" tvg-logo="" group-title="ADULTO",Erotic: CUCKOLD SESSIONS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26856
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CUM4K 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: CUM4K 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26857
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CUM4K 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: CUM4K 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26858
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: CUMLOUDER FHD" tvg-logo="" group-title="ADULTO",Erotic: CUMLOUDER FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26859
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DANCING BEAR FHD" tvg-logo="" group-title="ADULTO",Erotic: DANCING BEAR FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26860
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DAY WITH A PORNSTAR FHD" tvg-logo="" group-title="ADULTO",Erotic: DAY WITH A PORNSTAR FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26861
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DEEP LUSH FHD" tvg-logo="" group-title="ADULTO",Erotic: DEEP LUSH FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26862
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DEEPER FHD" tvg-logo="" group-title="ADULTO",Erotic: DEEPER FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26863
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DICK DRAINERS FHD" tvg-logo="" group-title="ADULTO",Erotic: DICK DRAINERS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26864
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DIRTY MASSEUR FHD" tvg-logo="" group-title="ADULTO",Erotic: DIRTY MASSEUR FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26865
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DIRTY WIVES CLUB FHD" tvg-logo="" group-title="ADULTO",Erotic: DIRTY WIVES CLUB FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26866
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DOCTORS ADVENTURES FHD" tvg-logo="" group-title="ADULTO",Erotic: DOCTORS ADVENTURES FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26867
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DON´T BREAK ME FHD" tvg-logo="" group-title="ADULTO",Erotic: DON´T BREAK ME FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26868
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL FHD" tvg-logo="" group-title="ADULTO",Erotic: DORCEL FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26869
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL TV HD (H)" tvg-logo="" group-title="ADULTO",Erotic: DORCEL TV HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26870
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DORCEL TV XXX HD (H)" tvg-logo="" group-title="ADULTO",Erotic: DORCEL TV XXX HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26871
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DP FANATICS FHD" tvg-logo="" group-title="ADULTO",Erotic: DP FANATICS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26872
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: DUSK TV FHD" tvg-logo="" group-title="ADULTO",Erotic: DUSK TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26873
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ELEGANT RAW FHD" tvg-logo="" group-title="ADULTO",Erotic: ELEGANT RAW FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26874
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EMANUELLE HD (S)" tvg-logo="" group-title="ADULTO",Erotic: EMANUELLE HD (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26875
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ERO X HD (S)" tvg-logo="" group-title="ADULTO",Erotic: ERO X HD (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26876
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ERO XXX HD  (H)" tvg-logo="" group-title="ADULTO",Erotic: ERO XXX HD  (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26877
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EROXXX FHD" tvg-logo="" group-title="ADULTO",Erotic: EROXXX FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26878
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVIL ANGEL (H)" tvg-logo="" group-title="ADULTO",Erotic: EVIL ANGEL (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26879
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVIL ANGEL TV FHD" tvg-logo="" group-title="ADULTO",Erotic: EVIL ANGEL TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26880
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EVOLVED FIGHTS FHD" tvg-logo="" group-title="ADULTO",Erotic: EVOLVED FIGHTS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26881
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXPLIOTED COLLEGE GIRLS 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: EXPLIOTED COLLEGE GIRLS 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26882
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXPLIOTED COLLEGE GIRLS 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: EXPLIOTED COLLEGE GIRLS 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26883
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXTREME TV (H)" tvg-logo="" group-title="ADULTO",Erotic: EXTREME TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26884
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: EXXXOTICA HD (S)" tvg-logo="" group-title="ADULTO",Erotic: EXXXOTICA HD (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26885
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAKE DRIVING SCHOOL CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: FAKE DRIVING SCHOOL CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26886
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAKE DRIVING SCHOOL FHD" tvg-logo="" group-title="ADULTO",Erotic: FAKE DRIVING SCHOOL FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26887
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAKE HOSTEL 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: FAKE HOSTEL 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26888
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAKE HOSTEL 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: FAKE HOSTEL 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26889
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAKE TAXI CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: FAKE TAXI CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26890
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAKE TAXI HD" tvg-logo="" group-title="ADULTO",Erotic: FAKE TAXI HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26891
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FAMILYHOOKUPS FHD" tvg-logo="" group-title="ADULTO",Erotic: FAMILYHOOKUPS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26892
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FEMALE FAKE TAXI CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: FEMALE FAKE TAXI CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26893
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FEMALE FAKE TAXI FHD" tvg-logo="" group-title="ADULTO",Erotic: FEMALE FAKE TAXI FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26894
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FIRST ANAL QUEST 1  FHD" tvg-logo="" group-title="ADULTO",Erotic: FIRST ANAL QUEST 1  FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26895
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FIRST ANAL QUEST 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: FIRST ANAL QUEST 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26896
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FRANCESKA JAIMES CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: FRANCESKA JAIMES CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26897
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE-X TV (H)" tvg-logo="" group-title="ADULTO",Erotic: FREE-X TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26898
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE-X TV 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: FREE-X TV 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26899
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FREE-X TV HQ (H)" tvg-logo="" group-title="ADULTO",Erotic: FREE-X TV HQ (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26900
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: FRENCH LOVER (S)" tvg-logo="" group-title="ADULTO",Erotic: FRENCH LOVER (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26901
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GANGBANG CREAMPIE FHD" tvg-logo="" group-title="ADULTO",Erotic: GANGBANG CREAMPIE FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26902
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GINA GERSON CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: GINA GERSON CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26903
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GIRLS OUT WEST FHD" tvg-logo="" group-title="ADULTO",Erotic: GIRLS OUT WEST FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26904
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GIRLS RIMMING FHD" tvg-logo="" group-title="ADULTO",Erotic: GIRLS RIMMING FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26905
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GLORYHOLE LOVE FHD" tvg-logo="" group-title="ADULTO",Erotic: GLORYHOLE LOVE FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26906
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GRAND PARENTS X FHD" tvg-logo="" group-title="ADULTO",Erotic: GRAND PARENTS X FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26907
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: GROUP SEX GAMES FHD" tvg-logo="" group-title="ADULTO",Erotic: GROUP SEX GAMES FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26908
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HER LIMIT FHD" tvg-logo="" group-title="ADULTO",Erotic: HER LIMIT FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26909
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOLED FHD" tvg-logo="" group-title="ADULTO",Erotic: HOLED FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26910
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOLLY HENDRIX CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: HOLLY HENDRIX CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26911
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT" tvg-logo="" group-title="ADULTO",Erotic: HOT
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26912
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT AND MEAN FHD" tvg-logo="" group-title="ADULTO",Erotic: HOT AND MEAN FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26913
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT HD (H)" tvg-logo="" group-title="ADULTO",Erotic: HOT HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26914
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT PLEASURE TV (H)" tvg-logo="" group-title="ADULTO",Erotic: HOT PLEASURE TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26915
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT TV (H)" tvg-logo="" group-title="ADULTO",Erotic: HOT TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26916
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT WIFE RIO FHD" tvg-logo="" group-title="ADULTO",Erotic: HOT WIFE RIO FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26917
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HOT XXL HD (H)" tvg-logo="" group-title="ADULTO",Erotic: HOT XXL HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26918
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSHPASS FHD" tvg-logo="" group-title="ADULTO",Erotic: HUSHPASS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26919
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSSIEPASS FHD" tvg-logo="" group-title="ADULTO",Erotic: HUSSIEPASS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26920
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER EUROPE HD" tvg-logo="" group-title="ADULTO",Erotic: HUSTLER EUROPE HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26921
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER FHD" tvg-logo="" group-title="ADULTO",Erotic: HUSTLER FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26922
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER TV 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: HUSTLER TV 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26923
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER TV HD" tvg-logo="" group-title="ADULTO",Erotic: HUSTLER TV HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26924
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER TV HD (H)" tvg-logo="" group-title="ADULTO",Erotic: HUSTLER TV HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26925
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: HUSTLER UHD 4K  [ONLY ON 4K DEVICES]" tvg-logo="" group-title="ADULTO",Erotic: HUSTLER UHD 4K  [ONLY ON 4K DEVICES]
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26926
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: I KNOW THAT GIRL FHD" tvg-logo="" group-title="ADULTO",Erotic: I KNOW THAT GIRL FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26927
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: IN THE CRACK 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: IN THE CRACK 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26928
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: IN THE CRACK 3 FHD" tvg-logo="" group-title="ADULTO",Erotic: IN THE CRACK 3 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26929
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: IN THE CRACK FHD" tvg-logo="" group-title="ADULTO",Erotic: IN THE CRACK FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26930
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: INTERRACIALPASS 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: INTERRACIALPASS 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26931
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: INTERRACIALPASS 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: INTERRACIALPASS 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26932
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JAMES DEEN FHD" tvg-logo="" group-title="ADULTO",Erotic: JAMES DEEN FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26933
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JAPAN HDV FHD" tvg-logo="" group-title="ADULTO",Erotic: JAPAN HDV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26934
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JASMIN FHD" tvg-logo="" group-title="ADULTO",Erotic: JASMIN FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26935
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JAYS POV FHD" tvg-logo="" group-title="ADULTO",Erotic: JAYS POV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26936
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JESSE LOADS MONSTER FACIALS FHD" tvg-logo="" group-title="ADULTO",Erotic: JESSE LOADS MONSTER FACIALS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26937
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JESSIE ROGERS CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: JESSIE ROGERS CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26938
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JIMSLIP FHD" tvg-logo="" group-title="ADULTO",Erotic: JIMSLIP FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26939
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JUICY" tvg-logo="" group-title="ADULTO",Erotic: JUICY
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26940
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: JYNX MAZE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: JYNX MAZE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26941
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: KISSA SINS CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: KISSA SINS CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26942
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LEO TV" tvg-logo="" group-title="ADULTO",Erotic: LEO TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26943
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LEO TV (H)" tvg-logo="" group-title="ADULTO",Erotic: LEO TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26944
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LESBIAN AFFAIR (H)" tvg-logo="" group-title="ADULTO",Erotic: LESBIAN AFFAIR (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26945
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LETS TRY ANAL FHD" tvg-logo="" group-title="ADULTO",Erotic: LETS TRY ANAL FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26946
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LIL HUMPERS FHD" tvg-logo="" group-title="ADULTO",Erotic: LIL HUMPERS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26947
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LOLA FAE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: LOLA FAE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26948
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LOOK AT HER NOW FHD" tvg-logo="" group-title="ADULTO",Erotic: LOOK AT HER NOW FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26949
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: LUSTERY FHD" tvg-logo="" group-title="ADULTO",Erotic: LUSTERY FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26950
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MANDY MUSE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: MANDY MUSE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26951
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MARTINA SMERALDI CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: MARTINA SMERALDI CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26952
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MAX XXX 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: MAX XXX 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26953
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MEA MELONE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: MEA MELONE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26954
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MEIDEN VAN HOLLAND (H)" tvg-logo="" group-title="ADULTO",Erotic: MEIDEN VAN HOLLAND (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26955
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MEIDEN VAN HOLLAND HARD" tvg-logo="" group-title="ADULTO",Erotic: MEIDEN VAN HOLLAND HARD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26956
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: METART FHD" tvg-logo="" group-title="ADULTO",Erotic: METART FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26957
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MIA KHALIFA FHD" tvg-logo="" group-title="ADULTO",Erotic: MIA KHALIFA FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26958
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MIA MALKOVA CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: MIA MALKOVA CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26959
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MiLF TV (H)" tvg-logo="" group-title="ADULTO",Erotic: MiLF TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26960
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MILFS LIKE IT BIG 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: MILFS LIKE IT BIG 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26961
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MMV FILMS FHD" tvg-logo="" group-title="ADULTO",Erotic: MMV FILMS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26962
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MOM IS HORNY FHD" tvg-logo="" group-title="ADULTO",Erotic: MOM IS HORNY FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26963
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MOMS TEACH SEX HD" tvg-logo="" group-title="ADULTO",Erotic: MOMS TEACH SEX HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26964
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MONSTERS OF COCK 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: MONSTERS OF COCK 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26965
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MONSTERS OF COCK HD" tvg-logo="" group-title="ADULTO",Erotic: MONSTERS OF COCK HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26966
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MY FAMILY PIES FHD" tvg-logo="" group-title="ADULTO",Erotic: MY FAMILY PIES FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26967
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MY LIFE IN MIAMI FHD" tvg-logo="" group-title="ADULTO",Erotic: MY LIFE IN MIAMI FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26968
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MY SEX MOBILE 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: MY SEX MOBILE 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26969
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: MY SEX MOBILE 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: MY SEX MOBILE 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26970
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NUART TV" tvg-logo="" group-title="ADULTO",Erotic: NUART TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26971
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NUART TV (S)" tvg-logo="" group-title="ADULTO",Erotic: NUART TV (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26972
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: NUBILES FHD" tvg-logo="" group-title="ADULTO",Erotic: NUBILES FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26973
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: O LA LA" tvg-logo="" group-title="ADULTO",Erotic: O LA LA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26974
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: O LA LA TV (S)" tvg-logo="" group-title="ADULTO",Erotic: O LA LA TV (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26975
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: OLALA" tvg-logo="" group-title="ADULTO",Erotic: OLALA
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26976
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: OLDTIMER (H)" tvg-logo="" group-title="ADULTO",Erotic: OLDTIMER (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26977
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: ONLY FANS FHD" tvg-logo="" group-title="ADULTO",Erotic: ONLY FANS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26978
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Passie XXX" tvg-logo="" group-title="ADULTO",Erotic: Passie XXX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26979
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSIE XXX (H)" tvg-logo="" group-title="ADULTO",Erotic: PASSIE XXX (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26980
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX" tvg-logo="" group-title="ADULTO",Erotic: PASSION XXX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26981
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX (H)" tvg-logo="" group-title="ADULTO",Erotic: PASSION XXX (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26982
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: PASSION XXX 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26983
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PASSION XXX 3 (H)" tvg-logo="" group-title="ADULTO",Erotic: PASSION XXX 3 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26984
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE BLACK" tvg-logo="" group-title="ADULTO",Erotic: PENTHOUSE BLACK
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26985
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE GOLD FHD" tvg-logo="" group-title="ADULTO",Erotic: PENTHOUSE GOLD FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26986
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE GOLD HD (H)" tvg-logo="" group-title="ADULTO",Erotic: PENTHOUSE GOLD HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26987
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE PASSION" tvg-logo="" group-title="ADULTO",Erotic: PENTHOUSE PASSION
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26988
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PENTHOUSE QUICKIES FHD" tvg-logo="" group-title="ADULTO",Erotic: PENTHOUSE QUICKIES FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26989
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PERV MOM FHD" tvg-logo="" group-title="ADULTO",Erotic: PERV MOM FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26990
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PERVS ON PATROL FHD" tvg-logo="" group-title="ADULTO",Erotic: PERVS ON PATROL FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26991
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PHOENIX MARIE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: PHOENIX MARIE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26992
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26993
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26994
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 3 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 3 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26995
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 4 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 4 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26996
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 5 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 5 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26997
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 6 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 6 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26998
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 7 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 7 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/26999
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK EROTIC 8 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK EROTIC 8 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27000
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK O CLUB (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK O CLUB (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27001
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PINK O CLUB 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: PINK O CLUB 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27002
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY EUROPE (S)" tvg-logo="" group-title="ADULTO",Erotic: PLAYBOY EUROPE (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27003
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY EUROPE HD (S)" tvg-logo="" group-title="ADULTO",Erotic: PLAYBOY EUROPE HD (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27004
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV (H)" tvg-logo="" group-title="ADULTO",Erotic: PLAYBOY TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27005
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV (H)" tvg-logo="" group-title="ADULTO",Erotic: PLAYBOY TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27006
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: PLAYBOY TV 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27007
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYBOY TV HD" tvg-logo="" group-title="ADULTO",Erotic: PLAYBOY TV HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27008
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLAYHOUSE HD (H)" tvg-logo="" group-title="ADULTO",Erotic: PLAYHOUSE HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27009
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PLUMPERPASS FHD" tvg-logo="" group-title="ADULTO",Erotic: PLUMPERPASS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27010
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PORNSTARS LIKE IT BIG FHD" tvg-logo="" group-title="ADULTO",Erotic: PORNSTARS LIKE IT BIG FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27011
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PRIVATE FHD" tvg-logo="" group-title="ADULTO",Erotic: PRIVATE FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27012
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PRIVATE TV (H)" tvg-logo="" group-title="ADULTO",Erotic: PRIVATE TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27013
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PRIVATE TV HD (H)" tvg-logo="" group-title="ADULTO",Erotic: PRIVATE TV HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27014
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PURE BABES (S)" tvg-logo="" group-title="ADULTO",Erotic: PURE BABES (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27015
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PURE MATURE 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: PURE MATURE 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27016
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PURE MATURE 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: PURE MATURE 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27017
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: PURGATORY X FHD" tvg-logo="" group-title="ADULTO",Erotic: PURGATORY X FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27018
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: RADICAL JIZZ LAM FHD" tvg-logo="" group-title="ADULTO",Erotic: RADICAL JIZZ LAM FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27019
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: Reality Kings" tvg-logo="" group-title="ADULTO",Erotic: Reality Kings
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27020
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REALITY KINGS TV" tvg-logo="" group-title="ADULTO",Erotic: REALITY KINGS TV
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27021
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REALITY SEX" tvg-logo="" group-title="ADULTO",Erotic: REALITY SEX
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27022
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REDLIGHT FHD" tvg-logo="" group-title="ADULTO",Erotic: REDLIGHT FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27023
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: REDLIGHT HD (H)" tvg-logo="" group-title="ADULTO",Erotic: REDLIGHT HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27024
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: RK DUPES FHD" tvg-logo="" group-title="ADULTO",Erotic: RK DUPES FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27025
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27026
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27027
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 3 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 3 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27028
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 4 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 4 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27029
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 5 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 5 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27030
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 6 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 6 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27031
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCORELAND 7 FHD" tvg-logo="" group-title="ADULTO",Erotic: SCORELAND 7 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27032
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SCT FHD" tvg-logo="" group-title="ADULTO",Erotic: SCT FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27033
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SECRET CIRCLE TV (S)" tvg-logo="" group-title="ADULTO",Erotic: SECRET CIRCLE TV (S)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27034
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SECRET CIRCLE TV HD" tvg-logo="" group-title="ADULTO",Erotic: SECRET CIRCLE TV HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27035
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SELVAGGIA CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: SELVAGGIA CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27036
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX ATION TV (H)" tvg-logo="" group-title="ADULTO",Erotic: SEX ATION TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27037
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX MEX 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: SEX MEX 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27038
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX MEX 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: SEX MEX 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27039
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX WITH ARABS 1 FHD" tvg-logo="" group-title="ADULTO",Erotic: SEX WITH ARABS 1 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27040
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEX WITH ARABS 2 FHD" tvg-logo="" group-title="ADULTO",Erotic: SEX WITH ARABS 2 FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27041
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEXTREME TV (H)" tvg-logo="" group-title="ADULTO",Erotic: SEXTREME TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27042
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SEXY HOT TV (H)" tvg-logo="" group-title="ADULTO",Erotic: SEXY HOT TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27043
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SHARE MY BF FHD" tvg-logo="" group-title="ADULTO",Erotic: SHARE MY BF FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27044
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SHEMALE ON FEMALE CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: SHEMALE ON FEMALE CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27045
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SHOP LYFTER FHD" tvg-logo="" group-title="ADULTO",Erotic: SHOP LYFTER FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27046
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SHOP LYFTER MYLF FHD" tvg-logo="" group-title="ADULTO",Erotic: SHOP LYFTER MYLF FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27047
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SISLOVESME FHD" tvg-logo="" group-title="ADULTO",Erotic: SISLOVESME FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27048
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL EROTIC HD (H)" tvg-logo="" group-title="ADULTO",Erotic: SL EROTIC HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27049
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27050
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 2 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 2 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27051
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 3 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 3 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27052
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 4 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 4 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27053
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 5 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 5 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27054
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 6 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 6 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27055
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 7 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 7 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27056
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 8 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 8 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27057
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SL HOT HD 9 (H)" tvg-logo="" group-title="ADULTO",Erotic: SL HOT HD 9 (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27058
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SPANK MONSTER FHD" tvg-logo="" group-title="ADULTO",Erotic: SPANK MONSTER FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27059
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SPERMA STUDIO FHD" tvg-logo="" group-title="ADULTO",Erotic: SPERMA STUDIO FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27060
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: STRANDED TEENS FHD" tvg-logo="" group-title="ADULTO",Erotic: STRANDED TEENS FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27061
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUGARDADDY FHD" tvg-logo="" group-title="ADULTO",Erotic: SUGARDADDY FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27062
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPER ADULT EROTIC HD" tvg-logo="" group-title="ADULTO",Erotic: SUPER ADULT EROTIC HD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27063
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPER ONE (H)" tvg-logo="" group-title="ADULTO",Erotic: SUPER ONE (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27064
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: SUPER ONE HD (H)" tvg-logo="" group-title="ADULTO",Erotic: SUPER ONE HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27065
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: TABOO TV (H)" tvg-logo="" group-title="ADULTO",Erotic: TABOO TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27066
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: TAKEVAN CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: TAKEVAN CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27067
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: TUSHY 2 TV FHD" tvg-logo="" group-title="ADULTO",Erotic: TUSHY 2 TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27068
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: TUSHY TV FHD" tvg-logo="" group-title="ADULTO",Erotic: TUSHY TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27069
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VANESSA DECKER CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: VANESSA DECKER CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27070
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VERONICA LEAL CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: VERONICA LEAL CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27071
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VINA SKY CHANNEL" tvg-logo="" group-title="ADULTO",Erotic: VINA SKY CHANNEL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27072
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VINTAGE X FHD" tvg-logo="" group-title="ADULTO",Erotic: VINTAGE X FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27073
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VISIT-X TV FHD" tvg-logo="" group-title="ADULTO",Erotic: VISIT-X TV FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27074
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VIVID RED FHD" tvg-logo="" group-title="ADULTO",Erotic: VIVID RED FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27075
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: VIVID TV EUROPE (H)" tvg-logo="" group-title="ADULTO",Erotic: VIVID TV EUROPE (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27076
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: WANK IT NOW FHD" tvg-logo="" group-title="ADULTO",Erotic: WANK IT NOW FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27077
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: WATCHING MY DAUGHTER GO BLACK FHD" tvg-logo="" group-title="ADULTO",Erotic: WATCHING MY DAUGHTER GO BLACK FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27078
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: WATCHING MY MOM GO BLACK FHD" tvg-logo="" group-title="ADULTO",Erotic: WATCHING MY MOM GO BLACK FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27079
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X-DREAM 2 TV (H)" tvg-logo="" group-title="ADULTO",Erotic: X-DREAM 2 TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27080
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: X-DREAM TV (H)" tvg-logo="" group-title="ADULTO",Erotic: X-DREAM TV (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27081
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XXL" tvg-logo="" group-title="ADULTO",Erotic: XXL
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27082
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XXL (H)" tvg-logo="" group-title="ADULTO",Erotic: XXL (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27083
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XXX MAX FHD" tvg-logo="" group-title="ADULTO",Erotic: XXX MAX FHD
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27084
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY MAX HD (H)" tvg-logo="" group-title="ADULTO",Erotic: XY MAX HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27085
+#EXTINF:-1 tvg-id="" tvg-name="Erotic: XY MIX HD (H)" tvg-logo="" group-title="ADULTO",Erotic: XY MIX HD (H)
+http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/27086
