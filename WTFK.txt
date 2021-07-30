@@ -1,0 +1,108 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="combate.br" tvg-name="COMBATE 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/combate.png" group-title="ESPORTES",COMBATE 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14353
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn.png" group-title="ESPORTES",ESPN 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14354
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espn2.png" group-title="ESPORTES",ESPN 2 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14355
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN EXTRA 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/espnextra.png" group-title="ESPORTES",ESPN EXTRA 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14357
+#EXTINF:-1 tvg-id="FOXSPORTS" tvg-name="FOX SPORT 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport1.png" group-title="ESPORTES",FOX SPORT 1 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14358
+#EXTINF:-1 tvg-id="FOXSPORTS2" tvg-name="FOX SPORT 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxsport2.png" group-title="ESPORTES",FOX SPORT 2 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14359
+#EXTINF:-1 tvg-id="SPORTV3" tvg-name="SPORT TV 3 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sporttv3.png" group-title="ESPORTES",SPORT TV 3 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14362
+#EXTINF:-1 tvg-id="OFF" tvg-name="OFF 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/off.png" group-title="ESPORTES",OFF 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14363
+#EXTINF:-1 tvg-id="BANDSPORTS" tvg-name="BAND SPORT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandsports.png" group-title="ESPORTES",BAND SPORT 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14364
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 1 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/153
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/dazn.png" group-title="ESPORTES",Dazn 2 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15064
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 1 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 1 HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15102
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 2 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 2 HD 
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15122
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 3 HD " tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 3 HD 
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15123
+#EXTINF:-1 tvg-id="" tvg-name="TNT ESPORTES 4 HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tntsports.png" group-title="ESPORTES",TNT ESPORTES 4 HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15149
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 01 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 01 4k
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15235
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 2 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 2 4k
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/158
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 3 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 3 4k
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15233
+#EXTINF:-1 tvg-id="" tvg-name="CONMEBOL TV 4 4k" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/conmebol.png" group-title="ESPORTES",CONMEBOL TV 4 4k
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15234
+#EXTINF:-1 tvg-id="PREMIERE2" tvg-name="PREMIER 2 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 2 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14366
+#EXTINF:-1 tvg-id="PREMIERE3" tvg-name="PREMIER 3 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 3 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14367
+#EXTINF:-1 tvg-id="PREMIERE4" tvg-name="PREMIER 4 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 4 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14368
+#EXTINF:-1 tvg-id="PREMIERE5BRAZIL" tvg-name="PREMIER 5 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 5 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14369
+#EXTINF:-1 tvg-id="PREMIERE6" tvg-name="PREMIER 6 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 6 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14370
+#EXTINF:-1 tvg-id="PREMIERE7" tvg-name="PREMIER 7 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 7 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14371
+#EXTINF:-1 tvg-id="PREMIERE8" tvg-name="PREMIER 8 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/premier.png" group-title="ESPORTES",PREMIER 8 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14372
+#EXTINF:-1 tvg-id="WOOHOO" tvg-name="WOOHOO 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/3255_300.png" group-title="ESPORTES",WOOHOO 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/141
+#EXTINF:-1 tvg-id="" tvg-name="All Sports TV" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/allsportstv.png" group-title="ESPORTES",All Sports TV
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15051
+#EXTINF:-1 tvg-id="GLOBONEWS" tvg-name="GLOBO NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/globonews.png" group-title="NOTÍCIAS",GLOBO NEWS 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14562
+#EXTINF:-1 tvg-id="BANDNEWS" tvg-name="BAND NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bandnews.png" group-title="NOTÍCIAS",BAND NEWS 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14563
+#EXTINF:-1 tvg-id="RECORDNEWS" tvg-name="RECORD NEWS 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/recordnews.png" group-title="NOTÍCIAS",RECORD NEWS 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/136
+#EXTINF:-1 tvg-id="" tvg-name="CNN BRASIL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnnbrasil.png" group-title="NOTÍCIAS",CNN BRASIL 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/150
+#EXTINF:-1 tvg-id="CNNE" tvg-name="CNN ESPANOL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnnespanol.png" group-title="NOTÍCIAS",CNN ESPANOL HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/114
+#EXTINF:-1 tvg-id="CNN" tvg-name="CNN INTERNACIONAL 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cnninter.png" group-title="NOTÍCIAS",CNN INTERNACIONAL 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/121
+#EXTINF:-1 tvg-id="FOXNEWS" tvg-name="FOX NEWS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/foxnews.png" group-title="NOTÍCIAS",FOX NEWS HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/120
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/bloomberg.png" group-title="NOTÍCIAS",Bloomberg 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14564
+#EXTINF:-1 tvg-id="SBT" tvg-name="SBT 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",SBT 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/110
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14967
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name="BAND  SP 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND  SP 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15231
+#EXTINF:-1 tvg-id="" tvg-name="BAND FHD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS",BAND FHD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15232
+#EXTINF:-1 tvg-id="BANDRJ" tvg-name=" RBATV Band PA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/band.png" group-title="ABERTOS", RBATV Band PA HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15002
+#EXTINF:-1 tvg-id="REDETV" tvg-name="REDE TV!" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV!
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/106
+#EXTINF:-1 tvg-id="REDESUPER" tvg-name="REDE SUPER HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redesuper.png" group-title="ABERTOS",REDE SUPER HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/139
+#EXTINF:-1 tvg-id="REDEGÊNESIS" tvg-name="REDE GENESIS HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegenies.png" group-title="ABERTOS",REDE GENESIS HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/140
+#EXTINF:-1 tvg-id="redegospel.br" tvg-name="REDE GOSPEL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redegospel.png" group-title="ABERTOS",REDE GOSPEL HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14983
+#EXTINF:-1 tvg-id="" tvg-name="REDE FAMILIA HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redefamilia.png" group-title="ABERTOS",REDE FAMILIA HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15008
+#EXTINF:-1 tvg-id="" tvg-name="REDE VIDA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redevida.png" group-title="RELIGIOSOS",REDE VIDA
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15120
+#EXTINF:-1 tvg-id="redetv.br" tvg-name="REDE TV Tocantins HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redetv.png" group-title="ABERTOS",REDE TV Tocantins HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15024
+#EXTINF:-1 tvg-id="" tvg-name="TBO REDE BRASIL HD" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/tboredebrasil.png" group-title="ABERTOS",TBO REDE BRASIL HD
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15028
+#EXTINF:-1 tvg-id="" tvg-name="Rede Cnt" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/redecnt.png" group-title="ABERTOS",Rede Cnt
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15020
+#EXTINF:-1 tvg-id="" tvg-name="TV Serra Dourada (SBT GO)" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sbt.png" group-title=" REDE SBT",TV Serra Dourada (SBT GO)
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/15004
+#EXTINF:-1 tvg-id="CURTA" tvg-name="Curta! 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/curta.png" group-title="ABERTOS",Curta! 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14561
+#EXTINF:-1 tvg-id="FUTURA" tvg-name="Futura 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/futura.png" group-title="ABERTOS",Futura 4K
+http://massud.homelinux.com:80/swtASxri6DGUwUF7/OZ693h5toShtCel4/14560
+#EXTINF:-1 tvg-id="ARTE1" tvg-name="Arte1 4K" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/arte1.png" group-title="ABERTO
