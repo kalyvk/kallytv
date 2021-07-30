@@ -354,8 +354,6 @@ http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15243
 #EXTINF:-1 tvg-id="" tvg-name="WHITE BOX" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",WHITE BOX
 http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/15255
 #EXTINF:-1 tvg-id="" tvg-name="XTACY" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/sex.png" group-title="ADULTO",XTACY
-#EXTINF:-1 tvg-id="" tvg-name="BO ATB" tvg-logo="http://gui.cdniptv.com:5544/icons/bolivia/atb.png" group-title="[lang=Bolivia] Bolivia",BO ATB
-http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/197
 #EXTINF:-1 tvg-id="" tvg-name="COVID-19 MAPA" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cam.png" group-title="CAMERA 24H",COVID-19 MAPA
 http://massud.homelinux.com:80/Bf11zrSy044G52PO/Sxx6YaLGb1lPKpzd/14979
 #EXTINF:-1 tvg-id="" tvg-name="CAM NASA MِARS" tvg-logo="http://gui.cdniptv.com:5544/icons/brasillogos/cam.png" group-title="CAMERA 24H",CAM NASA MِARS
