@@ -1,1 +1,1 @@
-{ "epg": "http://playhdtv.tk/epg.xml", "list": "http://b5.vc:80/get.php?username=0672648180&password=fireurl.co&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "EM BREVE NOVA ATUALIZAÇÃO" }
+{ "epg": "#", "list": "http://b5.vc:80/get.php?username=0672648180&password=fireurl.co&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "EM BREVE NOVA ATUALIZAÇÃO" }
