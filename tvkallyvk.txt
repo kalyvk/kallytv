@@ -1,1 +1,1 @@
-{ "epg": "#", "list": "http://massud.homelinux.com:80/player_api.php?action=get_live_streams&username=AxJQOCX86FdIaaPH&password=Zbuq427vfD4AXgEb&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
+{ "epg": "#", "list": "http://massud.homelinux.com:80/get.php?username=Bf11zrSy044G52PO&password=Sxx6YaLGb1lPKpzd&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
