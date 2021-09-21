@@ -1,1 +1,1 @@
-{ "epg": "#", "list": "http://xcui.vitvabc.xyz:8880/get.php?username=287994003787&password=287994003787&type=m3u_plus&output=ts", "validity": "20/07/2024", "success": true, "notifications": "" }
+{ "epg": "#", "list": "http://massud.homelinux.com:80/get.php?&username=C4VTMTH7qfh85Ohz&password=ulzvzOz2rli3t493&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
