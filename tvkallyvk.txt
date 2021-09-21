@@ -1,1 +1,1 @@
-{ "epg": "#", "list": "http://massud.homelinux.com:80/get.php?&username=C4VTMTH7qfh85Ohz&password=ulzvzOz2rli3t493&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
+{ "epg": "#", "list": "http://b5.vc:80/get.php?username=0672648180&password=fireurl.co&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
