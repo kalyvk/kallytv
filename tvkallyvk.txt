@@ -1,1 +1,1 @@
-{ "epg": "#", "list": "http://tvaapp.xyz:80/get.php?username=900EB33C3A26&password=900EB33C3A26&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
+{ "epg": "#", "list": "http://185.53.90.49:2095/get.php?&username=NEW_LIVE6226490723&password=9547164100&type=m3u_plus", "validity": "20/07/2024", "success": true, "notifications": "" }
